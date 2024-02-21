@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "sms2wails",
+  "outputfilename": "sms2wails",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "Wang Yaoshen",
+    "email": "wangyaoshen@zhonghegene.com"
+  }
+}
