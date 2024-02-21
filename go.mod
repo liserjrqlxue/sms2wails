@@ -1,4 +1,4 @@
-module changeme
+module sms2wails
 
 go 1.21
 
