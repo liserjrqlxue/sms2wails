@@ -1,4 +1,5 @@
 build/bin
+build/darwin
 frontend/dist
 frontend/node_modules
 
