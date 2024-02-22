@@ -9,7 +9,7 @@ import (
 	"github.com/wailsapp/wails/v2/pkg/options/windows"
 )
 
-//go:embed all:frontend/src
+//go:embed all:frontend/src/SMS/docs
 var assets embed.FS
 
 func main() {
