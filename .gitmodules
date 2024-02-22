@@ -1,0 +1,3 @@
+[submodule "frontend/src/SMS"]
+	path = frontend/src/SMS
+	url = https://github.com/paulstothard/sequence_manipulation_suite.git
